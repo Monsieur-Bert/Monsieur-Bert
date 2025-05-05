@@ -1,23 +1,46 @@
-# 👋 Salut, moi c'est [Ton Prénom / Ton Pseudo]
+# 👋 Hello there! I'm Monsieur Bert
 
-## 👨‍💻 À propos de moi
-- 🔭 Je travaille actuellement sur : [ton projet actuel]
-- 🌱 J'apprends en ce moment : [technos ou sujets]
-- 👯 Je cherche à collaborer sur : [projets open-source, idées...]
-- 💬 Pose-moi des questions sur : [domaines de compétence]
-- 📫 Me contacter : [email ou réseaux]
-- ⚡ Fun fact : [quelque chose de sympa ou insolite]
+## 🧔🖥️🎹 About Me
+- 🎧  I'm a Music Media Composer
+- 🎸  I'm making noise into my band CHASING FOXES
+- 📍   I'm learning code at school 42 Angoulême (as antauber)
 
-## 🛠️ Compétences
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<!-- Ajoute d'autres badges selon tes technos -->
+- 🔭  I’m currently working on: Audio Signal Processing for Music Applications
+- 🌱  I’m currently learning: Object-oriented programming (Python and C++98)
+- 👯  I’m looking to collaborate on: Sounds and Music Softwares
+- ❤️  My current passion: Making Makefiles
+---
 
-## 📊 Statistiques GitHub
-![Tes Stats GitHub](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight)
+## 🛠️ Tech Stack
 
-## 🔗 Liens utiles
-- 🌐 [Portfolio](https://tonsite.com)
-- 💼 [LinkedIn](https://linkedin.com/in/tonpseudo)
-- 📂 [Mes projets GitHub](https://github.com/tonpseudo?tab=repositories)
+![Linux](https://img.shields.io/badge/Linux-FF0000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+
+<!-- Add or remove badges as needed -->
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsieur-Bert&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsieur-Bert&layout=compact&theme=default)
+
+---
+
+## 🔗 Connect with Me
+
+[![42 Profile](https://img.shields.io/badge/-Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/antauber)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-aubert-378259252/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/monsieur_bert)
+[![Aubert Antoine](https://img.shields.io/badge/Aubert_Antoine-24292F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aubertantoine.com/)
+[![Chasing Foxes](https://img.shields.io/badge/Chasing_Foxes-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.instagram.com/chasingfoxeshq/)
+
+---
+
+<!--## 📁 Featured Projects
+
+- 🚀 [Project Name](https://github.com/yourusername/project-name): Short description of what it does.--!>
