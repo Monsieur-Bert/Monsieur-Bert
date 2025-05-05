@@ -1,12 +1,23 @@
-## Hi, I'm Monsieur-Bert
+# 👋 Salut, moi c'est [Ton Prénom / Ton Pseudo]
 
-I'm currently studying at School 42 (Angoulême), as antauber.
+## 👨‍💻 À propos de moi
+- 🔭 Je travaille actuellement sur : [ton projet actuel]
+- 🌱 J'apprends en ce moment : [technos ou sujets]
+- 👯 Je cherche à collaborer sur : [projets open-source, idées...]
+- 💬 Pose-moi des questions sur : [domaines de compétence]
+- 📫 Me contacter : [email ou réseaux]
+- ⚡ Fun fact : [quelque chose de sympa ou insolite]
 
-<h3 align="left">Languages: </h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-</p>
+## 🛠️ Compétences
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!-- Ajoute d'autres badges selon tes technos -->
 
-<h3 align="left">Environment:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+## 📊 Statistiques GitHub
+![Tes Stats GitHub](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight)
+
+## 🔗 Liens utiles
+- 🌐 [Portfolio](https://tonsite.com)
+- 💼 [LinkedIn](https://linkedin.com/in/tonpseudo)
+- 📂 [Mes projets GitHub](https://github.com/tonpseudo?tab=repositories)
