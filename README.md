@@ -5,8 +5,8 @@
 - 🎸  I'm making noise into my band CHASING FOXES
 - 📍   I'm learning code at school 42 Angoulême (as antauber)
 
-- 🔭  I’m currently working on: Audio Signal Processing for Music Applications
-- 🌱  I’m currently learning: Object-oriented programming (Python and C++98)
+- 🔭  I’m currently working on: CI / CD
+- 🌱  I’m currently learning: kubernetes and K3s
 - 👯  I’m looking to collaborate on: Sounds and Music Softwares
 - ❤️  My current passion: Making Makefiles
 ---
@@ -37,7 +37,6 @@
 [![42 Profile](https://img.shields.io/badge/-Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/antauber)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-aubert-378259252/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/monsieur_bert)
-[![Aubert Antoine](https://img.shields.io/badge/Aubert_Antoine-24292F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aubertantoine.com/)
 [![Chasing Foxes](https://img.shields.io/badge/Chasing_Foxes-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.instagram.com/chasingfoxeshq/)
 
 ---
