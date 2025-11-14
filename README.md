@@ -1,46 +1,109 @@
-# 👋 Hello there! I'm Monsieur Bert
+<div align="center">
 
-## 🧔🖥️🎹 About Me
-- 🎧  I'm a Music Media Composer
-- 🎸  I'm making noise into my band CHASING FOXES
-- 📍   I'm learning code at school 42 Angoulême (as antauber)
+# Antoine Aubert | DevOps Engineer
 
-- 🔭  I’m currently working on: CI / CD
-- 🌱  I’m currently learning: kubernetes and K3s
-- 👯  I’m looking to collaborate on: Sounds and Music Softwares
-- ❤️  My current passion: Making Makefiles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-015F85?style=for-the-badge&logo=linkedin&logoColor=F3F3E6)](https://www.linkedin.com/in/antoine-aubert-378259252/) [![42 Profile](https://img.shields.io/badge/42-015F85?style=for-the-badge&logo=42&logoColor=F3F3E6)](https://profile.intra.42.fr/users/antauber)
+
+</div>
+
 ---
+
+## 👨‍💻 About Me
+
+```yaml
+profile:
+  name: "Antoine Aubert"
+  42_alias: "antauber"
+  role: "DevOps Engineer & Student at 42 School"
+  location: "Angoulême - France"
+  interests:
+    - "Infrastructure Automation"
+    - "Container Orchestration"
+    - "CI/CD Pipelines"
+    - "Music Production"
+   
+current_focus:
+  learning: ["Kubernetes", "K3s", "GitOps", "Vagrant"]
+  working_on: "CI/CD Pipeline and Containers Orchestration"
+  passion: "Crafting elegant Makefiles & automation scripts"
+
+next_focus:
+  learning: ["Cloud Infra", "Terraform", "Podman"]
+  working_on: "Found a internship as Devops"
+
+```
 
 ## 🛠️ Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-FF0000?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<!-- Add or remove badges as needed -->
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🐧 System and Tools
+![Linux](https://img.shields.io/badge/Linux-015F85?style=for-the-badge&logo=linux&logoColor=F3F3E6) ![Vagrant](https://img.shields.io/badge/Vagrant-015F85?style=for-the-badge&logo=Vagrant&logoColor=F3F3E6) ![Git](https://img.shields.io/badge/Git-015F85?style=for-the-badge&logo=git&logoColor=F3F3E6) ![Vim](https://img.shields.io/badge/Vim-015F85?style=for-the-badge&logo=vim&logoColor=F3F3E6)
+
+
+### 🐳 Containerization
+![Docker](https://img.shields.io/badge/Docker-015F85?style=for-the-badge&logo=docker&logoColor=F3F3E6) ![K3s](https://img.shields.io/badge/K3s-015F85?style=for-the-badge&logo=k3s&logoColor=F3F3E6)
+
+### ⚙️ CI /CD
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-015F85?style=for-the-badge&logo=github-actions&logoColor=F3F3E6) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-015F85?style=for-the-badge&logo=gitlab&logoColor=F3F3E6)
+
+
+</td>
+<td valign="top" width="50%">
+
+### 💻 Programming & Scripting
+![C](https://img.shields.io/badge/C-015F85?style=for-the-badge&logo=c&logoColor=F3F3E6) ![C++](https://img.shields.io/badge/C++-015F85?style=for-the-badge&logo=cplusplus&logoColor=F3F3E6) ![Python](https://img.shields.io/badge/Python-015F85?style=for-the-badge&logo=python&logoColor=F3F3E6) ![Bash](https://img.shields.io/badge/Bash-015F85?style=for-the-badge&logo=gnu-bash&logoColor=F3F3E6) ![JavaScript](https://img.shields.io/badge/JavaScript-015F85?style=for-the-badge&logo=javascript&logoColor=F3F3E6)
+
+
+### 📊 Observability
+![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-015F85?style=for-the-badge&logo=elastic&logoColor=F3F3E6) ![Prometheus](https://img.shields.io/badge/Prometheus-015F85?style=for-the-badge&logo=prometheus&logoColor=F3F3E6) ![Alertmanager](https://img.shields.io/badge/Alertmanager-015F85?style=for-the-badge&logo=prometheus&logoColor=F3F3E6) ![Grafana](https://img.shields.io/badge/Grafana-015F85?style=for-the-badge&logo=grafana&logoColor=F3F3E6)
+
+
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsieur-Bert&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsieur-Bert&layout=compact&theme=default)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Monsieur-Bert&show_icons=true&hide_border=true&bg_color=F3F3E6&title_color=015F85&icon_color=015F85&text_color=015F85&rank_icon=github&border_color=015F85" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monsieur-Bert&layout=compact&hide_border=true&bg_color=F3F3E6&title_color=015F85&text_color=015F85&langs_count=8&border_color=015F85" height="180em" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Monsieur-Bert&hide_border=true&bg_color=F3F3E6&color=015F85&line=015F85&point=015F85&area=true&area_color=015F85" width="98%" />
+
+</div>
 
 ---
 
-## 🔗 Connect with Me
+## 🚀 Featured Projects
+<div align="center">
+<a href="https://github.com/Monsieur-Bert/inception">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsieur-Bert&repo=inception&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false" height=120 width="49%" />
+</a>
+<a href="https://github.com/Cimeci/ft_transcendence">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cimeci&repo=ft_transcendence&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false" height=120 width="49%" />
+</a>
+<a href="https://github.com/Monsieur-Bert/space_wallpaper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsieur-Bert&repo=space_wallpaper&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false" height=120 width="49%" />
+</a>
+<a href="https://github.com/Monsieur-Bert/Game_Of_life">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsieur-Bert&repo=Game_Of_Life&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false" height=120 width="49%" />
+</a>
 
-[![42 Profile](https://img.shields.io/badge/-Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/antauber)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-aubert-378259252/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/monsieur_bert)
-[![Chasing Foxes](https://img.shields.io/badge/Chasing_Foxes-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.instagram.com/chasingfoxeshq/)
+</div>
 
 ---
 
-<!--## 📁 Featured Projects
+## 🎵 Beyond Code
+When I'm not debugging containers or writing makefiles, you'll find me:
+- 🎸 Making noise in my band member [Chasing Foxes](https://www.instagram.com/chasingfoxeshq/)
+- 🎧 [Compose Music for medias](https://on.soundcloud.com/RS0hvhIHKtvVPGqJQV) (video games, roleplay, short films)
 
-- 🚀 [Project Name](https://github.com/yourusername/project-name): Short description of what it does.--!>
