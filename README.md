@@ -86,16 +86,14 @@ next_focus:
 ## 🚀 Featured Projects
 <div align="center">
 <a href="https://github.com/Monsieur-Bert/inception">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsieur-Bert&repo=inception&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false" height=120 width="49%" />
-</a>
-<a href="https://github.com/Cimeci/ft_transcendence">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cimeci&repo=ft_transcendence&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false" height=120 width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsieur-Bert&repo=inception&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false" height="120" width="49%" />
+</a><a href="https://github.com/Cimeci/ft_transcendence">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cimeci&repo=ft_transcendence&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false" height="120"  width="49%" />
 </a>
 <a href="https://github.com/Monsieur-Bert/space_wallpaper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsieur-Bert&repo=space_wallpaper&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false" height=120 width="49%" />
-</a>
-<a href="https://github.com/Monsieur-Bert/Game_Of_life">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsieur-Bert&repo=Game_Of_Life&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false" height=120 width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsieur-Bert&repo=space_wallpaper&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false" height="120" width="49%" />
+</a><a href="https://github.com/Monsieur-Bert/Game_Of_life">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsieur-Bert&repo=Game_Of_Life&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false" height="120"  width="49%" />
 </a>
 
 </div>
