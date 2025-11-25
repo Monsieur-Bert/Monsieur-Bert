@@ -29,7 +29,7 @@ current_focus:
 
 next_focus:
   learning: ["Cloud Infra", "Terraform", "Podman"]
-  working_on: "Found a internship as Devops"
+  working_on: "Found an internship as Devops"
 
 ```
 
@@ -94,6 +94,6 @@ next_focus:
 
 ## 🎵 Beyond Code
 When I'm not debugging containers or writing makefiles, you'll find me:
-- 🎸 Making noise in my band member [Chasing Foxes](https://www.instagram.com/chasingfoxeshq/)
+- 🎸 Making noise in my band [Chasing Foxes](https://www.instagram.com/chasingfoxeshq/)
 - 🎧 [Compose Music for medias](https://on.soundcloud.com/RS0hvhIHKtvVPGqJQV) (video games, roleplay, short films)
 
