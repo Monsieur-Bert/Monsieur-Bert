@@ -14,7 +14,7 @@
 profile:
   name: "Antoine Aubert"
   42_alias: "antauber"
-  role: "DevOps Engineer & Student at 42 School"
+  role: "DevOps Engineer && Student at 42 School"
   location: "Angoulême - France"
   interests:
     - "Infrastructure Automation"
@@ -23,13 +23,14 @@ profile:
     - "Music Production"
    
 current_focus:
-  learning: ["Kubernetes", "K3s", "GitOps", "Vagrant"]
-  working_on: "CI/CD Pipeline and Containers Orchestration"
+  learning: ["Cloud Infra", "Ansible", "Terraform", "Podman"]
+  working_on: "Found an intership as DevOps"
+  go_deeper_on: ["Kubernetes", "GitLab CI"]
   passion: "Crafting elegant Makefiles & automation scripts"
 
 next_focus:
-  learning: ["Cloud Infra", "Terraform", "Podman"]
-  working_on: "Found an internship as Devops"
+  learning: ["HackTheBox", "Learn Go Language"]
+  working_on: "Add Security and Cyber process on my DevOps skills"
 
 ```
 
@@ -86,7 +87,8 @@ next_focus:
 ## 🚀 Featured Projects
 <div align="center">
 <a href="https://github.com/Monsieur-Bert/inception"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsieur-Bert&repo=inception&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false&description_lines_count=2" height="120" width="49%" /></a><a href="https://github.com/Cimeci/ft_transcendence"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cimeci&repo=ft_transcendence&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false&description_lines_count=2" height="120" width="49%" /></a>
-<a href="https://github.com/Monsieur-Bert/space_wallpaper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsieur-Bert&repo=space_wallpaper&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false&description_lines_count=2" height="120" width="49%" /></a><a href="https://github.com/Monsieur-Bert/Game_Of_life"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsieur-Bert&repo=Game_Of_Life&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false&description_lines_count=2" height="120" width="49%" /></a>
+<a href="https://github.com/aauberti/IoT""><img src="https://github-readme-stats.vercel.app/api/pin/?username=aauberti&repo=IoT&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false&description_lines_count=2" height="120" width="49%" /></a><a href="https://github.com/Monsieur-Bert/Game_Of_life"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsieur-Bert&repo=Game_Of_Life&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false&description_lines_count=2" height="120" width="49%" /></a>
+
 
 </div>
 
