@@ -23,13 +23,13 @@ profile:
     - "Music Production"
    
 current_focus:
-  learning: ["Cloud Infra", "Ansible", "Terraform", "Podman"]
-  working_on: "Found an intership as DevOps"
-  go_deeper_on: ["Kubernetes", "GitLab CI"]
+  learning: ["Cloud Infra", "Podman"]
+  working_on: "improve my Linux skills"
+  go_deeper_on: ["Kubernetes", "GitLab CI", "Infra as Code"]
   passion: "Crafting elegant Makefiles & automation scripts"
 
 next_focus:
-  learning: ["HackTheBox", "Learn Go Language"]
+  learning: ["HackTheBox", "Learn Go Language", "Music FX and Tools"]
   working_on: "Add Security and Cyber process on my DevOps skills"
 
 ```
@@ -41,7 +41,8 @@ next_focus:
 <td valign="top" width="50%">
 
 ### 🐧 System and Tools
-![Linux](https://img.shields.io/badge/Linux-015F85?style=for-the-badge&logo=linux&logoColor=F3F3E6) ![Vagrant](https://img.shields.io/badge/Vagrant-015F85?style=for-the-badge&logo=Vagrant&logoColor=F3F3E6) ![Git](https://img.shields.io/badge/Git-015F85?style=for-the-badge&logo=git&logoColor=F3F3E6) ![Vim](https://img.shields.io/badge/Vim-015F85?style=for-the-badge&logo=vim&logoColor=F3F3E6)
+![Linux](https://img.shields.io/badge/Linux-015F85?style=for-the-badge&logo=linux&logoColor=F3F3E6) ![Vagrant](https://img.shields.io/badge/Vagrant-015F85?style=for-the-badge&logo=Vagrant&logoColor=F3F3E6) ![Ansible](https://img.shields.io/badge/Ansible-015F85?style=for-the-badge&logo=ansible&logoColor=F3F3E6) ![Terraform](https://img.shields.io/badge/Terraform-015F85?style=for-the-badge&logo=terraform&logoColor=F3F3E6)
+![Git](https://img.shields.io/badge/Git-015F85?style=for-the-badge&logo=git&logoColor=F3F3E6) ![NVim](https://img.shields.io/badge/NeoVim-015F85?style=for-the-badge&logo=neovim&logoColor=F3F3E6)
 
 
 ### 🐳 Containerization
@@ -83,20 +84,31 @@ next_focus:
 </div>
 
 ---
-
-## 🚀 Featured Projects
+## 🐙 Github Projects
 <div align="center">
 <a href="https://github.com/Monsieur-Bert/inception"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsieur-Bert&repo=inception&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false&description_lines_count=2" height="120" width="49%" /></a> <a href="https://github.com/Cimeci/ft_transcendence"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cimeci&repo=ft_transcendence&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false&description_lines_count=2" height="120" width="49%" /></a>
 
 <a href="https://github.com/aauberti/IoT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aauberti&repo=IoT&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false&description_lines_count=2" height="120" width="49%" /></a> <a href="https://github.com/Monsieur-Bert/space_wallpaper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsieur-Bert&repo=space_wallpaper&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false&description_lines_count=2" height="120" width="49%" /></a>
 
-<a href="https://github.com/Monsieur-Bert/Game_Of_life"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Monsieur-Bert&repo=Game_Of_Life&bg_color=F3F3E6&title_color=015F85&text_color=015F85&icon_color=015F85&border_color=015F85&hide_border=false&description_lines_count=2" height="120" width="49%" /></a>
-</div>
 
+</div>
 
 </div>
 
 ---
+## 🦊 GitLab Projects
+
+- **[Game Of Life (🚧 in development)](https://gitlab.com/Monsieur-Bert/game_of_life)**
+  A basic C++17 implementation of the Conway's game. 
+  [![pipeline](https://gitlab.com/Monsieur-Bert/game_of_life/badges/main/pipeline.svg)](https://gitlab.com/Monsieur-Bert/game_of_life)
+  [![last commit](https://img.shields.io/gitlab/last-commit/Monsieur-Bert/game_of_life)](https://gitlab.com/Monsieur-Bert/game_of_life)
+
+- **[Cloud-1](https://gitlab.com/devops-lovers/cloud-1)**
+  Automated deployment of the Inception 42 projecton an AWS Cloud.
+  [![pipeline](https://gitlab.com/devops-lovers/cloud-1/badges/main/pipeline.svg)](https://gitlab.com/devops-lovers/cloud-1)
+  [![last commit](https://img.shields.io/gitlab/last-commit/devops-lovers/cloud-1)](https://gitlab.com/devops-lovers/cloud-1)
+
+
 
 ## 🎵 Beyond Code
 When I'm not debugging containers or writing makefiles, you'll find me:
