@@ -99,12 +99,12 @@ next_focus:
 ## 🦊 GitLab Projects
 
 - **[Game Of Life (🚧 in development)](https://gitlab.com/Monsieur-Bert/game_of_life)**
-  A basic C++17 implementation of the Conway's game. 
+  A basic C++17 implementation of the Conway's game.  
   [![pipeline](https://gitlab.com/Monsieur-Bert/game_of_life/badges/main/pipeline.svg)](https://gitlab.com/Monsieur-Bert/game_of_life)
   [![last commit](https://img.shields.io/gitlab/last-commit/Monsieur-Bert/game_of_life)](https://gitlab.com/Monsieur-Bert/game_of_life)
 
 - **[Cloud-1](https://gitlab.com/devops-lovers/cloud-1)**
-  Automated deployment of the Inception 42 projecton an AWS Cloud.
+  Automated deployment of the Inception 42 projecton an AWS Cloud.  
   [![pipeline](https://gitlab.com/devops-lovers/cloud-1/badges/main/pipeline.svg)](https://gitlab.com/devops-lovers/cloud-1)
   [![last commit](https://img.shields.io/gitlab/last-commit/devops-lovers/cloud-1)](https://gitlab.com/devops-lovers/cloud-1)
 
