@@ -14,7 +14,7 @@
 profile:
   name: "Antoine Aubert"
   42_alias: "antauber"
-  role: "DevOps Engineer && Student at 42 School"
+  role: "DevSecOps Intern && Student at 42 School"
   location: "Angoulême - France"
   interests:
     - "Infrastructure Automation"
@@ -23,14 +23,15 @@ profile:
     - "Music Production"
    
 current_focus:
-  learning: ["Cloud Infra", "Podman"]
+  learning: ["Cloud Infra", "Machine Virtualisation"]
   working_on: "improve my Linux skills"
-  go_deeper_on: ["Kubernetes", "GitLab CI", "Infra as Code"]
   passion: "Crafting elegant Makefiles & automation scripts"
 
 next_focus:
   learning: ["HackTheBox", "Learn Go Language", "Music FX and Tools"]
   working_on: "Add Security and Cyber process on my DevOps skills"
+  go_deeper_on: ["Kubernetes", "Linux World", "IHM design"]
+
 
 ```
 
@@ -41,7 +42,7 @@ next_focus:
 <td valign="top" width="50%">
 
 ### 🐧 System and Tools
-![Linux](https://img.shields.io/badge/Linux-015F85?style=for-the-badge&logo=linux&logoColor=F3F3E6) ![Vagrant](https://img.shields.io/badge/Vagrant-015F85?style=for-the-badge&logo=Vagrant&logoColor=F3F3E6) ![Ansible](https://img.shields.io/badge/Ansible-015F85?style=for-the-badge&logo=ansible&logoColor=F3F3E6) ![Terraform](https://img.shields.io/badge/Terraform-015F85?style=for-the-badge&logo=terraform&logoColor=F3F3E6)
+![Linux](https://img.shields.io/badge/Linux-015F85?style=for-the-badge&logo=linux&logoColor=F3F3E6) ![Vagrant](https://img.shields.io/badge/Vagrant-015F85?style=for-the-badge&logo=Vagrant&logoColor=F3F3E6) ![Ansible](https://img.shields.io/badge/Ansible-015F85?style=for-the-badge&logo=ansible&logoColor=F3F3E6) ![Terraform](https://img.shields.io/badge/Terraform-015F85?style=for-the-badge&logo=terraform&logoColor=F3F3E6) ![Packer](https://img.shields.io/badge/Packer-015F85?style=for-the-badge&logo=packer&logoColor=F3F3E6)
 ![Git](https://img.shields.io/badge/Git-015F85?style=for-the-badge&logo=git&logoColor=F3F3E6) ![NVim](https://img.shields.io/badge/NeoVim-015F85?style=for-the-badge&logo=neovim&logoColor=F3F3E6)
 
 
